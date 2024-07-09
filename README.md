@@ -3,9 +3,7 @@
 This script automates the Google Chrome Dinosaur Game using JavaScript.
 
 # Features
-Real-time obstacle detection: Uses image processing techniques to identify obstacles in the game.
 Automated controls: Sends keyboard inputs to make Dino jump or duck based on the detected obstacles.
-High score tracking: Keeps track of the highest score achieved by the bot.
 Customizable parameters: Allows users to adjust the speed, detection sensitivity, and other parameters.
 
 # Setup
